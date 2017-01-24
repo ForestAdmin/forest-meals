@@ -1,0 +1,2 @@
+class DeliveryMan < ApplicationRecord
+end
