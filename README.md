@@ -1,24 +1,9 @@
-# README
+# Forest Admin "Meals" Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is a demo of a liana integration on a Rails server.
 
-Things you may want to cover:
+## Community
 
-* Ruby version
+👇 Join our Slack community of +1000 developers
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Slack Status](http://community.forestadmin.com/badge.svg)](https://community.forestadmin.com)
