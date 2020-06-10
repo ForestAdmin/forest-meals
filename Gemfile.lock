@@ -80,7 +80,7 @@ GEM
       rack-cors
       rails (>= 4.0)
       useragent
-    geocoder (1.2.11)
+    geocoder (1.6.1)
     globalid (0.3.7)
       activesupport (>= 4.1.0)
     groupdate (4.0.0)
